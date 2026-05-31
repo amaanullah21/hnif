@@ -1,7 +1,3 @@
-This is a professional `README.md` file for your GitHub repository. It focuses on the **HNIF (Hafzan Network Impact Framework)**, explaining the financial network theory behind the model and how to use the simulator.
-
-***
-
 # Hafzan Network Impact Framework (HNIF) Portal
 
 ![Field](https://img.shields.io/badge/Field-Financial_Microstructure-blue.svg)
